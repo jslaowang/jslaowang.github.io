@@ -1,0 +1,1 @@
+const e={key:"v-273b4e0e",path:"/pages/mac.html",title:"mac \u95EE\u9898\u6C47\u603B",lang:"zh-CN",frontmatter:{},excerpt:"",headers:[{level:2,title:"mac \u63D0\u793A\u5B58\u50A8\u7A7A\u95F4\u4E0D\u591F",slug:"mac-\u63D0\u793A\u5B58\u50A8\u7A7A\u95F4\u4E0D\u591F",children:[]}],filePathRelative:"pages/mac.md"};export{e as data};

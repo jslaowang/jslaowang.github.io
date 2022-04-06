@@ -1,0 +1,1 @@
+const e={key:"v-260a6a82",path:"/pages/bookmark.html",title:"\u6536\u85CF",lang:"zh-CN",frontmatter:{},excerpt:"",headers:[{level:2,title:"\u535A\u5BA2",slug:"\u535A\u5BA2",children:[]},{level:2,title:"\u7ECF\u9A8C",slug:"\u7ECF\u9A8C",children:[]},{level:2,title:"\u5DE5\u5177",slug:"\u5DE5\u5177",children:[]}],filePathRelative:"pages/bookmark.md"};export{e as data};

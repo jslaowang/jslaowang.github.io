@@ -1,0 +1,1 @@
+const e={key:"v-6c14d0be",path:"/pages/problem.html",title:"\u9879\u76EE\u96BE\u70B9\u8BB0\u5F55",lang:"zh-CN",frontmatter:{},excerpt:"",headers:[],filePathRelative:"pages/problem.md"};export{e as data};
